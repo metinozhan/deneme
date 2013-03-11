@@ -16,4 +16,5 @@ system/logs
 *.log
 *.sql
 *.sqlite
+install
 
