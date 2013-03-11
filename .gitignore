@@ -8,3 +8,12 @@ image/cache/*.jpg
 image/cache/data/*
 system/cache
 system/logs
+
+.DS_Store
+.DS_Store?
+._*
+
+*.log
+*.sql
+*.sqlite
+
